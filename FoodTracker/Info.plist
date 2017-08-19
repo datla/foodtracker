@@ -42,6 +42,6 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Allows you to add your photos to your meals</string>
+	<string>Allows you to add your own photo to your meals</string>
 </dict>
 </plist>

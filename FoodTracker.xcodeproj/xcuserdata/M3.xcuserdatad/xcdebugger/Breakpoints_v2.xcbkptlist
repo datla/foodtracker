@@ -26,12 +26,12 @@
                   moduleName = "FoodTracker"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/m3/raja/FoodTracker/FoodTracker/ViewController.swift"
-                  timestampString = "524834982.158545"
+                  timestampString = "524851348.996204"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
+                  offsetFromSymbolStart = "12">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -41,12 +41,12 @@
                   moduleName = "FoodTracker"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/m3/raja/FoodTracker/FoodTracker/ViewController.swift"
-                  timestampString = "524834982.16215"
+                  timestampString = "524851348.999287"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
                   endingLineNumber = "14"
-                  offsetFromSymbolStart = "70">
+                  offsetFromSymbolStart = "76">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -56,12 +56,12 @@
                   moduleName = "FoodTracker"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/m3/raja/FoodTracker/FoodTracker/ViewController.swift"
-                  timestampString = "524834982.16591"
+                  timestampString = "524851349.002588"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0"
-                  offsetFromSymbolStart = "23">
+                  offsetFromSymbolStart = "32">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -71,12 +71,12 @@
                   moduleName = "FoodTracker"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/m3/raja/FoodTracker/FoodTracker/ViewController.swift"
-                  timestampString = "524834982.169736"
+                  timestampString = "524851349.005116"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
+                  offsetFromSymbolStart = "12">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -86,12 +86,12 @@
                   moduleName = "FoodTracker"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/m3/raja/FoodTracker/FoodTracker/ViewController.swift"
-                  timestampString = "524834982.174064"
+                  timestampString = "524851349.008467"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
                   endingLineNumber = "14"
-                  offsetFromSymbolStart = "31">
+                  offsetFromSymbolStart = "36">
                </Location>
             </Locations>
          </BreakpointContent>
