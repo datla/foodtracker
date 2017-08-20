@@ -18,7 +18,7 @@ class FoodTrackerTests: XCTestCase {
         
         // Zero rating
         let zeroRatingMeal = Meal.init(name: "Zero", photo: nil, rating: 0)
-        XCTAssertNotNil(zeroRatingMeal)
+        XCTAssertNotNil(zeroRatingMeal) 
 
         // Positive rating
         let positiveRatingMeal = Meal.init(name: "Positive", photo: nil, rating: 5)
